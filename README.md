@@ -1,5 +1,5 @@
 
-# Quouteporn
+# Quoteporn
 Light weight (on UI) daily dose of quotes. Get a taste [here](https://quoteporn.xyz).
 
 ## Categories
