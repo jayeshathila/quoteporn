@@ -1,6 +1,4 @@
-
 # Quote Porn
-
 
 ## Overview
 
