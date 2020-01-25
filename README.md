@@ -7,7 +7,14 @@ It has been created to satisfy your hard-core desire for daily motivation. If yo
 witty statements from the celebrities, then `quoteporn` is the way to go.
 
 ## How It Works  
-As of now, Quote Porn selects a random quote message from its Quote Pool.
+![alt text](https://raw.githubusercontent.com/jayeshathila/quoteporn/master/quoteporn.jpg)
+
+### Feed Quotes:
+- 1. Add quotes to `quotes` file
+- 2. Raise PR.
+- 3. Get it merged and voila, done.
+### Consume Quotes:
+- Just hit - [quoteporn](https://quoteporn.xyz) .
 
 ## REST APIs 
 
@@ -89,7 +96,7 @@ curl -X GET \
 echo"
 $ . ~/.bashrc
 $ motivate
-"Caring makes you weak. If they think you care, they\u2019ll walk all over you. - Suits"
+"Caring makes you weak. If they think you care, they'll walk all over you. - Suits"
 ```   
 
 - Recurring Schedule  
@@ -104,4 +111,4 @@ Use it when:
 - Your coffee ain't caffeinated enough for your dark-theme terminal.
 - You need a funny or motivational "Me" time.
 - You're bored, while your manager reminded you to send a daily update, yet again.
-- Your dog ain't talking to you. Your girlfriend is asking you for more time. Your investor is grilling you without giving money, or you're having a constipation. Trust me, it works.
+- Your dog ain't talking to you. Your girlfriend is asking you for more time. Your investor is grilling you without giving money. Trust me, it works.
