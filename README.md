@@ -107,8 +107,6 @@ You can set a recurring schedule for your quote message by integrating with unix
 [Creator](https://github.com/jayeshathila) of the Quote Porn says - 
 
 Use it when:
-- You are stuck on something in code, and need a push.
+- You are stuck on something, and need a little push.
 - Your coffee ain't caffeinated enough for your dark-theme terminal.
-- You need a funny or motivational "Me" time.
-- You're bored, while your manager reminded you to send a daily update, yet again.
-- Your dog ain't talking to you. Your girlfriend is asking you for more time. Your investor is grilling you without giving money. Trust me, it works.
+- You want to start your day with a plain old motivational quote.
