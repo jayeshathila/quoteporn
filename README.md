@@ -110,3 +110,6 @@ Use it when:
 - You are stuck on something, and need a little push.
 - Your coffee ain't caffeinated enough for your dark-theme terminal.
 - You want to start your day with a plain old motivational quote.
+
+## Stats
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.quoteporn)	![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/quoteporn)
